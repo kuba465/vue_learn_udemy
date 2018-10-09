@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <link href="../css/style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
 <div id="app">
-    <button @click="counter++">Increase</button>
-    <button @click="counter--">Decrease</button>
-    <button @click="secondCounter++">Increase Second Counter</button>
-    <p>Counter: {{counter}} | {{secondCounter}}</p>
-    <p>Result: {{showResult()}} | {{output}}</p>
+    <div class="demo" @click="attachRed = !attachRed" :class="{red: attachRed}"></div>
+    <div class="demo" :class="{green: attachRed}"></div>
+    <div class="demo"></div>
 </div>
 
 <script src="https://unpkg.com/vue/dist/vue.js"></script>
