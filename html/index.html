@@ -9,7 +9,9 @@
 <div id="app">
     <div class="demo" @click="attachRed = !attachRed" :class="divClasses"></div>
     <div class="demo" :class="{green: attachRed}"></div>
-    <div class="demo"></div>
+    <div class="demo" :class="{color: color === 'blue'}"></div>
+    <hr>
+    <input type="text" v-model="color">
 </div>
 
 <script src="https://unpkg.com/vue/dist/vue.js"></script>
