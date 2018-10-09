@@ -5,13 +5,12 @@
     <title>Title</title>
 </head>
 <body>
-    <div id="app">
-        <button @click="increase(2, $event)">Click me</button>
-        <button @click="counter++">Click me</button>
-        <p>{{counter * 2 > 10 ? 'Greater that 10' : 'Lower than 10'}}</p>
-    </div>
+<div id="app">
+    <input type="text" v-model="name">
+    <p>{{name}}</p>
+</div>
 
-    <script src="https://unpkg.com/vue/dist/vue.js"></script>
-    <script src="../js/app.js"></script>
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
+<script src="../js/app.js"></script>
 </body>
 </html>
