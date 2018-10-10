@@ -8,7 +8,7 @@
 <body>
 <div id="app">
     <ul>
-        <li v-for="ingredient in ingredients">{{ingredient}}</li>
+        <li v-for="(ingredient, index) in ingredients">{{index}}. {{ingredient}}</li>
     </ul>
 </div>
 
