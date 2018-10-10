@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="97a9b707-acfc-4891-a098-42a44a16b04b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise 2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise-2/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise 2/how-to-use.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise-2/how-to-use.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise-2/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,40 +14,37 @@
     <session id="786497786">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="4" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="8" />
-          <entry key="js" value="9" />
-          <entry key="txt" value="2" />
+          <entry key="html" value="4" />
+          <entry key="js" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="4" />
-          <entry key="HTML" value="8" />
-          <entry key="JavaScript" value="9" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="HTML" value="4" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="293" />
           <entry key="gitignore" value="3" />
-          <entry key="html" value="974" />
-          <entry key="js" value="1639" />
+          <entry key="html" value="1338" />
+          <entry key="js" value="207" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="293" />
-          <entry key="HTML" value="974" />
-          <entry key="JavaScript" value="1639" />
+          <entry key="HTML" value="1338" />
+          <entry key="JavaScript" value="207" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -58,43 +52,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise-4/Exercise 4/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise-4/Exercise 4/app.js">
+        <entry file="file://$PROJECT_DIR$/Exercise-5/Exercise/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="504">
+              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise-4/Exercise 4/styles.css">
+        <entry file="file://$PROJECT_DIR$/Exercise-5/Exercise/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="38" column="13" selection-end-line="41" />
+            <state relative-caret-position="270">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
-        <option value="CSS File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -103,15 +79,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/js/first.js" />
-        <option value="$PROJECT_DIR$/Exercise-3/Exercise 3/index.html" />
-        <option value="$PROJECT_DIR$/Exercise-3/Exercise 3/app.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/html/index.html" />
-        <option value="$PROJECT_DIR$/Exercise-4/Exercise 4/styles.css" />
-        <option value="$PROJECT_DIR$/Exercise-4/Exercise 4/index.html" />
-        <option value="$PROJECT_DIR$/Exercise-4/Exercise 4/app.js" />
+        <option value="$PROJECT_DIR$/Exercise-5/Exercise/app.js" />
+        <option value="$PROJECT_DIR$/Exercise-5/Exercise/index.html" />
       </list>
     </option>
   </component>
@@ -132,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,39 +114,26 @@
             <path>
               <item name="vue_learn_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue_learn_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise-4" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue_learn_udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue_learn_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise-4" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise 4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue_learn_udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue_learn_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue_learn_udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue_learn_udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise-5" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,25 +157,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539101508050</updated>
-      <workItem from="1539101509395" duration="11935000" />
+      <workItem from="1539101509395" duration="777000" />
+      <workItem from="1539189578932" duration="4307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11935000" />
+    <option name="totallyTimeSpent" value="5722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="25" width="1541" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14849499" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15050167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -224,10 +179,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,71 +214,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise-2/how-to-use.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise-2/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise-2/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise-3/Exercise 3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise-3/Exercise 3/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="19" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise-4/Exercise 4/how-to-use.txt">
+    <entry file="file://$PROJECT_DIR$/Exercise-4/Exercise 4/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        <state relative-caret-position="180">
+          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="108">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise-4/Exercise 4/styles.css">
+    <entry file="file://$PROJECT_DIR$/Exercise-5/Exercise/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="38" column="13" selection-end-line="41" />
+        <state relative-caret-position="270">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise-4/Exercise 4/index.html">
+    <entry file="file://$PROJECT_DIR$/Exercise-5/Exercise/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise-4/Exercise 4/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="504">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
         </state>
       </provider>
     </entry>
