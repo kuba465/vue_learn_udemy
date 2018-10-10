@@ -7,12 +7,32 @@
 </head>
 <body>
 <div id="app">
-    <div class="demo" :style="myStyle"></div>
-    <div class="demo"></div>
-    <div class="demo" :style="[myStyle, {height: width + 'px'}]"></div>
+    <ul>
+        <li v-for="(ingredient, index) in ingredients" :key="ingredient">{{index}}. {{ingredient}}</li>
+    </ul>
+    <button @click="ingredients.push('spices')">Add</button>
     <hr>
-    <input type="text" v-model="color">
-    <input type="number" v-model="width">
+    <ul>
+        <li v-for="person in persons">
+            <p v-for="(value, key, index) in person"> {{key}}: {{value}} ({{index}})</p>
+        </li>
+    </ul>
+    <hr>
+    <table style="border-collapse: collapse">
+        <tr>
+            <th v-for="(value, key) in persons[0]" style="border: 1px solid black">{{key}}</th>
+        </tr>
+        <tr v-for="person in persons">
+            <td v-for="value in person" style="border: 1px solid black">{{value}}</td>
+        </tr>
+    </table>
+    <hr>
+    <span v-for="n in 10">{{n}}</span>
+    <hr>
+    <template v-for="(ingredient, index) in ingredients">
+        <h1>{{ingredient}}</h1>
+        <p>{{index}}</p>
+    </template>
 </div>
 
 <script src="https://unpkg.com/vue/dist/vue.js"></script>
